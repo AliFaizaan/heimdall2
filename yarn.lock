@@ -13313,10 +13313,10 @@ joi@^17.4.0:
     "@sideway/formula" "^3.0.0"
     "@sideway/pinpoint" "^2.0.0"
 
-jose@^4.8.1:
-  version "4.8.3"
-  resolved "https://registry.yarnpkg.com/jose/-/jose-4.8.3.tgz#5a754fb4aa5f2806608d083f438e6916b11087da"
-  integrity sha512-7rySkpW78d8LBp4YU70Wb7+OTgE3OwAALNVZxhoIhp4Kscp+p/fBkdpxGAMKxvCAMV4QfXBU9m6l9nX/vGwd2g==
+jose@^4.10.0:
+  version "4.10.0"
+  resolved "https://registry.yarnpkg.com/jose/-/jose-4.10.0.tgz#2e0b7bcc80dd0775f8a4588e55beb9460c37d60a"
+  integrity sha512-KEhB/eLGLomWGPTb+/RNbYsTjIyx03JmbqAyIyiXBuNSa7CmNrJd5ysFhblayzs/e/vbOPMUaLnjHUMhGp4yLw==
 
 jquery@^3.6.0:
   version "3.6.0"
@@ -15488,17 +15488,17 @@ oauth-sign@~0.9.0:
   integrity sha512-fexhUFFPTGV8ybAtSIGbV6gOkSv8UtRbDBnAyLQw4QPKkgNlsH2ByPGtMUqdWkos6YCRmAqViwgZrJc/mRDzZQ==
 
 oauth2-mock-server@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/oauth2-mock-server/-/oauth2-mock-server-5.0.0.tgz#c42ce73eb3d43eb54200d94e85fff3c40acd993f"
-  integrity sha512-IWW7vhCgMYiB3yOkRF2z4XBSTHBBNTBOfc/V17CJA4xwZt/lSKjL5iaVt/86EhzsbikJwxR8eZWWkt54P5pcvg==
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/oauth2-mock-server/-/oauth2-mock-server-5.0.1.tgz#ee5ab6f36e400c84457baddc4fee5afaf6e9c531"
+  integrity sha512-BbpcgQkP+kKM6XJWAEhP1UQSColU/PdHR0KPC4zqEm/eUZr5PklcmbfZOKmtZFWv/6T2kLLFsH+NEsEitByXuQ==
   dependencies:
     basic-auth "^2.0.1"
     body-parser "^1.20.0"
     cors "^2.8.5"
     express "^4.18.1"
-    jose "^4.8.1"
+    jose "^4.10.0"
     lodash.isplainobject "^4.0.6"
-    uuid "^8.3.2"
+    uuid "^9.0.0"
 
 oauth@0.9.x:
   version "0.9.15"
@@ -20348,6 +20348,11 @@ uuid@^3.2.1, uuid@^3.3.2:
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.4.0.tgz#b23e4358afa8a202fe7a100af1f5f883f02007ee"
   integrity sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A==
+
+uuid@^9.0.0:
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-9.0.0.tgz#592f550650024a38ceb0c562f2f6aa435761efb5"
+  integrity sha512-MXcSTerfPa4uqyzStbRoTgt5XIe3x5+42+q1sDuy3R5MDk66URdLMOZe5aPX/SQd+kuYAh0FdP/pO28IkQyTeg==
 
 v8-compile-cache-lib@^3.0.1:
   version "3.0.1"
