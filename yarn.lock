@@ -3770,9 +3770,9 @@
     "@types/node" "*"
 
 "@types/bootstrap@^5.0.15":
-  version "5.2.1"
-  resolved "https://registry.yarnpkg.com/@types/bootstrap/-/bootstrap-5.2.1.tgz#618978b7dc5afb2a8eb8cb4c8d4e63b2c112ca69"
-  integrity sha512-jPdLpDnBTHeocqelEz+ZVP2eY12hIBXgJLV/n0URiQiiNLdCgHwDqaI0chijjn1qwvDNbjzhKDeYAHxsnIGtIA==
+  version "5.2.6"
+  resolved "https://registry.yarnpkg.com/@types/bootstrap/-/bootstrap-5.2.6.tgz#e861b3aa1f4a1434da0bf50fbaa372b6f7e64d2f"
+  integrity sha512-BlAc3YATdasbHoxMoBWODrSF6qwQO/E9X8wVxCCSa6rWjnaZfpkr2N6pUMCY6jj2+wf0muUtLySbvU9etX6YqA==
   dependencies:
     "@popperjs/core" "^2.9.2"
 
@@ -6494,9 +6494,9 @@ boolbase@^1.0.0, boolbase@~1.0.0:
   integrity sha1-aN/1++YMUes3cl6p4+0xDcwed24=
 
 bootstrap@^5.0.2:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-5.2.0.tgz#838727fb60f1630db370fe57c63cbcf2962bb3d3"
-  integrity sha512-qlnS9GL6YZE6Wnef46GxGv1UpGGzAwO0aPL1yOjzDIJpeApeMvqV24iL+pjr2kU4dduoBA9fINKWKgMToobx9A==
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-5.2.3.tgz#54739f4414de121b9785c5da3c87b37ff008322b"
+  integrity sha512-cEKPM+fwb3cT8NzQZYEu4HilJ3anCrWqh3CHAok1p9jXqMPsPTBhU25fBckEJHJ/p+tTxTFTsFQGM+gaHpi3QQ==
 
 bowser@^2.11.0:
   version "2.11.0"
