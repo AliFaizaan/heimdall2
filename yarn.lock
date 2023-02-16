@@ -4118,12 +4118,12 @@
   integrity sha512-CuPgU6f3eT/XgKKPqKd/gLZV1Xmvf1a2R5POBOGQa6uv82xpls89HU5zKeVoyR8XzHd1RGNOlQlvUe3CFkjWNQ==
 
 "@types/expect-puppeteer@^5.0.0":
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/@types/expect-puppeteer/-/expect-puppeteer-5.0.1.tgz#25230c09d89f6db4c8c17c36a0b91dfa4e7bdf84"
-  integrity sha512-pHyrvgY0Ovjem3mFbgZWHHI5HJ+LF3Pc3j3sX3+15OMgZcpnCCohoq2EY1WI2VtQcTgEluFvdXhh+6IY1lHqCQ==
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/@types/expect-puppeteer/-/expect-puppeteer-5.0.3.tgz#dec156fedaf9f00b81ee09feabc91d51d8c5c22f"
+  integrity sha512-NIqATm95VmFbc2s9v1L3yj9ZS9/rCrtptSgBsvW8mcw2KFpLFQqXPyEbo0Vju1eiBieI38jRGWgpbVuUKfQVoQ==
   dependencies:
     "@types/jest" "*"
-    "@types/puppeteer" "*"
+    "@types/puppeteer" "^5.4.0"
 
 "@types/express-rate-limit@^6.0.0":
   version "6.0.0"
